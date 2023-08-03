@@ -1,7 +1,8 @@
 export const globalOptions = {
-  name: "bridges_app_38011",
-  url: "https://bridges_app_38011.botics.co",
-  api: "https://bridges_app_38011.botics.co/api/v1"
+  "name": "bridges_app_38011",
+  "url": "https://bridges_app_38011.botics.co",
+  "api": "https://bridges_app_38011.botics.co/api/v1",
+  "initialRoute": "Untitled1"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
